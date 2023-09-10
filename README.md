@@ -1,10 +1,10 @@
-# Hackathon-Meals-Finder-API-Project
+#Meals-Finder
 
 
 ```markdown
 # Meals Finder
 
-![Project Image](project-image-url)
+
 
 > A web application that allows users to discover and explore a variety of meals using the Fetch API.
 
@@ -72,24 +72,6 @@ The Meals Finder project utilizes the following API:
 For more information about the API and its usage, please refer to the [API Documentation](api-doc-link).
 
 ---
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Create a pull request to the main repository.
-
-For more information on contributing, please read the [Contributing Guidelines](CONTRIBUTING.md).
-
----
-
-## License
-
-This project is licensed under the [License Name](license-link) - see the [LICENSE](LICENSE) file for details.
 
 
 
