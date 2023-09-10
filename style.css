@@ -1,0 +1,43 @@
+body {
+  
+    width: 100%;
+   height: 100vh;
+
+   
+}
+
+
+
+/* total cards */
+.card{
+    border-radius: rgb(0 0 0 / 0%) !important;
+    width:16rem;
+     height:26rem!important;
+     border: none!important;
+     opacity: 5.7em!important;
+     background-color: rgb(235, 235, 235)!important;
+       
+      
+    
+
+}
+
+
+ /* cards btns */
+.btn{
+    margin-left: 50px;
+}
+
+
+ /* cards titels */
+.card-title{
+    font-size: 15px;
+    color: rgb(110, 110, 110)!important;
+}
+
+
+
+ /* card images */
+.card-img-top{
+
+}
