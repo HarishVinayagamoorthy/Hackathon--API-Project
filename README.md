@@ -1,7 +1,3 @@
-#Meals-Finder
-
-
-```markdown
 # Meals Finder
 
 
@@ -33,50 +29,3 @@ You can see a live demo of the Meals Finder project [here](https://main--merry-s
 
 ---
 
-## Installation
-
-To run the Meals Finder project locally, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/meals-finder.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd meals-finder
-```
-
-3. Open the `index.html` file in your preferred web browser.
-
-4. Start exploring meals!
-
----
-
-## Usage
-
-1. Enter a meal name or keyword in the search bar to find specific dishes.
-2. Browse through meal categories by clicking on the category buttons.
-3. Click on a meal card to view detailed information, including ingredients and preparation instructions.
-
----
-
-## API
-
-The Meals Finder project utilizes the following API:
-
-- [recipe API ]( https://www.themealdb.com/api/json/v1/1/search.php?s=`{foodname}`): Description of the API and how it is used in the project.
-
-For more information about the API and its usage, please refer to the [API Documentation](api-doc-link).
-
----
-
-
-
-## Contact
-
-[Your Name](your-email-address)
-
-Connect with me on [LinkedIn](your-linkedin-profile-link) and [GitHub](your-github-profile-link).
